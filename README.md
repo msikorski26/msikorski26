@@ -24,7 +24,8 @@
 <br>
 
 # `🏆` My Stats:
-[![](https://streak-stats.demolab.com?user=msikorski26&theme=transparent&hide_border=true)](https://mscode.pl)<br>
-[![](https://visitcount.itsvg.in/api?id=msikorski26&label=Profile%20Views&color=1&icon=0&pretty=true)](https://mscode.pl)<br>
-
+[![](https://streak-stats.demolab.com?user=msikorski26&theme=transparent&hide_border=true)](https://msikorski.me)<br>
+[![](https://visitcount.itsvg.in/api?id=msikorski26&label=Profile%20Views&color=1&icon=0&pretty=true)](https://msikorski.me)<br>
+[![](https://wakatime.com/badge/user/b7065cab-63e5-400a-9acf-4689cff3cc57.svg)](https://wakatime.com/@b7065cab-63e5-400a-9acf-4689cff3cc57)
+[![](https://komarev.com/ghpvc/?username=msikorski26&label=Profile%20views&color=0e75b6&style=flat)](https://msikorski.me)
 </div>
