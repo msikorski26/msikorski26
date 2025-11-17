@@ -1,8 +1,8 @@
 <div align="center">
 
 # 📝 About Me:
-`💻`・CEO & Founder: **https://mscode.pl/**<br>
-`🌱` I’m currently learning: GoLang<br>
+`💻`・CEO & Founder: **https://mpsolutions.tech**<br>
+`🌱` I’m currently learning: Flutter & C<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
   ~ Walt Disney
@@ -24,7 +24,7 @@
 <br>
 
 # 🏆 My Stats:
-[![](https://streak-stats.demolab.com?user=mscodepl&theme=transparent&hide_border=true)](https://mscode.pl)<br>
-[![](https://visitcount.itsvg.in/api?id=mscodepl&label=Profile%20Views&color=1&icon=0&pretty=true)](https://mscode.pl)<br>
+[![](https://streak-stats.demolab.com?user=msikorski26&theme=transparent&hide_border=true)](https://mscode.pl)<br>
+[![](https://visitcount.itsvg.in/api?id=msikorski26&label=Profile%20Views&color=1&icon=0&pretty=true)](https://mscode.pl)<br>
 
 </div>
