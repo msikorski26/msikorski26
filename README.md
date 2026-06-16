@@ -1,7 +1,7 @@
 <div align="center">
 
 # `📝` About Me:
-`💻` CEO & Founder: **[MsCode.pl](https://mscode.pl)**<br>
+`💻` Owner: **[MSCode.pl](https://mscode.pl)**<br>
 `🌱` I’m currently learning: Flutter & C<br>
 `⚡` Fun fact: A crocodile cannot stick its tongue out. <br>
 `📖` *"Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać"*<br>
