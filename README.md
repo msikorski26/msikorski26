@@ -22,7 +22,7 @@
 <a href="https://msikorski.me/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://badges.mscode.pl/icons?i=html,css,js,ts,py,lua,c,cs,go,php,nextjs,react,express,nestjs,dotnet,laravel,vite,tailwind,flutter,nodejs,mysql,mongodb,postgres,redis,rabbitmq&perline=13&theme=dark">
-    <img src="https://badges.mscode.pl/icons?i=html,css,js,ts,py,lua,c,cs,go,php,nextjs,react,express,nestjs,dotnet,laravel,vite,tailwind,flutter,nodejs,mysql,mongodb,postgres,redis,rabbitmq&perline=13&theme=light" alt="HTML, CSS, JavaScript, TypeScript, Python, Lua, C, C#, Go, PHP, Next.js, React, Express, NestJS, .NET, Laravel, Vite, Tailwind CSS, Flutter, Node.js, MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ">
+    <img src="https://badges.mscode.pl/icons?i=html,css,js,ts,py,lua,c,cs,go,php,nextjs,react,express,nestjs,dotnet,laravel,vite,tailwind,flutter,nodejs,mysql,mongodb,postgres,redis,rabbitmq&perline=13&theme=light" alt="HTML, CSS, JavaScript, TypeScript, Python, Lua, C, C#, Go, PHP, Next.js, React, Express, NestJS, .NET, Laravel, Vite, Tailwind CSS, Flutter, Node.js, MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ.">
   </picture>
 </a>
 
